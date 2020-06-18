@@ -22,5 +22,5 @@ if question3 == "No":
     
 else:
     print(question1   +   question2  +  question3)
-    
+#the last else statement has a bug, but I'll think about a way around it    
     
